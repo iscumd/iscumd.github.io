@@ -1126,7 +1126,7 @@ button,
   input[type="button"].primary,
   button.primary,
   .button.primary {
-    background-color: #8cc9f0;
+    background-color: #00274C;
     color: #ffffff !important;
     box-shadow: none; }
     input[type="submit"].primary:hover,
@@ -1134,13 +1134,13 @@ button,
     input[type="button"].primary:hover,
     button.primary:hover,
     .button.primary:hover {
-      background-color: #9acff2; }
+      background-color: #002f5b; }
     input[type="submit"].primary:active,
     input[type="reset"].primary:active,
     input[type="button"].primary:active,
     button.primary:active,
     .button.primary:active {
-      background-color: #7ec3ee; }
+      background-color: #001f3d; }
     input[type="submit"].primary.icon:before,
     input[type="reset"].primary.icon:before,
     input[type="button"].primary.icon:before,
@@ -1288,8 +1288,8 @@ textarea {
   input[type="email"]:focus,
   select:focus,
   textarea:focus {
-    border-color: #8cc9f0;
-    box-shadow: 0 0 0 1px #8cc9f0; }
+    border-color: #00274C;
+    box-shadow: 0 0 0 1px #00274C; }
 
 select {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(255, 255, 255, 0.35)' /%3E%3C/svg%3E"); }
@@ -1311,8 +1311,8 @@ input[type="radio"]:checked + label:before {
   color: #935d8c; }
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-  border-color: #8cc9f0;
-  box-shadow: 0 0 0 1px #8cc9f0; }
+  border-color: #00274C;
+  box-shadow: 0 0 0 1px #00274C; }
 
 ::-webkit-input-placeholder {
   color: rgba(255, 255, 255, 0.5) !important; }
@@ -2088,7 +2088,7 @@ table.alt tbody tr td {
     #main input[type="button"].primary,
     #main button.primary,
     #main .button.primary {
-      background-color: #8cc9f0;
+      background-color: #00274C;
       color: #ffffff !important;
       box-shadow: none; }
       #main input[type="submit"].primary:hover,
@@ -2096,13 +2096,13 @@ table.alt tbody tr td {
       #main input[type="button"].primary:hover,
       #main button.primary:hover,
       #main .button.primary:hover {
-        background-color: #9acff2; }
+        background-color: #002f5b; }
       #main input[type="submit"].primary:active,
       #main input[type="reset"].primary:active,
       #main input[type="button"].primary:active,
       #main button.primary:active,
       #main .button.primary:active {
-        background-color: #7ec3ee; }
+        background-color: #001f3d; }
       #main input[type="submit"].primary.icon:before,
       #main input[type="reset"].primary.icon:before,
       #main input[type="button"].primary.icon:before,
@@ -2123,8 +2123,8 @@ table.alt tbody tr td {
     #main input[type="email"]:focus,
     #main select:focus,
     #main textarea:focus {
-      border-color: #8cc9f0;
-      box-shadow: 0 0 0 1px #8cc9f0; }
+      border-color: #00274C;
+      box-shadow: 0 0 0 1px #00274C; }
   #main select {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='%23dddddd' /%3E%3C/svg%3E"); }
     #main select option {
@@ -2144,8 +2144,8 @@ table.alt tbody tr td {
     color: #ffffff; }
   #main input[type="checkbox"]:focus + label:before,
   #main input[type="radio"]:focus + label:before {
-    border-color: #8cc9f0;
-    box-shadow: 0 0 0 1px #8cc9f0; }
+    border-color: #00274C;
+    box-shadow: 0 0 0 1px #00274C; }
   #main ::-webkit-input-placeholder {
     color: rgba(99, 99, 99, 0.25) !important; }
   #main :-moz-placeholder {
