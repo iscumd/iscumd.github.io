@@ -9,21 +9,26 @@
     background-color: var(--bg-color); /* Use the CSS variable for background color */
     border-radius: 25px;
 }
-.box img {
+.box-img {
     max-width: 30%;
-    height: auto;
+    height: 100px;
+    width: 100px;
+    align-items: right;
 }
 .box-content-with-image {
     max-width: 65%;
     height: auto;
     width: auto;
+    display: grid;
+    align-items: center;
+
 }
 .box-content{
     align-items: center;
 }
 .box-content-super{
-    margin: 10%;
-    width: 80%;
+    margin: 5%;
+    width: 90%;
     align-self: auto;
 }
 .header {
