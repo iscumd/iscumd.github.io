@@ -7,13 +7,24 @@
     justify-content: space-between;
     align-items: center;
     background-color: var(--bg-color); /* Use the CSS variable for background color */
+    border-radius: 25px;
 }
 .box img {
     max-width: 30%;
     height: auto;
 }
-.box-content {
+.box-content-with-image {
     max-width: 65%;
+    height: auto;
+    width: auto;
+}
+.box-content{
+    align-items: center;
+}
+.box-content-super{
+    margin: 10%;
+    width: 80%;
+    align-self: auto;
 }
 .header {
     font-size: 32px;
@@ -23,4 +34,5 @@
 }
 .paragraph {
     font-size: 18px;
+    margin: 8px;
 }
